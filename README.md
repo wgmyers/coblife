@@ -50,3 +50,47 @@ You know, like proper functions. Or actual variables. Or lines that are allowed
 to be longer than 80 characters. Basic shit.
 
 This has been a trip and a half.
+
+## NB
+
+This is very much My First COBOL program, written very quickly after reading
+through precisely half of one of the many online COBOL tutorials. The chances
+that it is anything other than extremely bad non-idiomatic COBOL are slim.
+
+## Issues (FWIW)
+
+* No generation counter
+* No editor
+* No way to restart without rerunning the whole thing
+* No way to fit artibrary terminals
+* Random seed is not set properly
+
+## Resources
+
+This was an exercise in learning me a bisl COBOL, so here's some stuff I found
+that helped me, and may, if you are still reading this far down, help you too.
+
+### GNU COBOL - https://gnucobol.sourceforge.io/
+
+Your GNU-friendly free COBOL compiler. If you have access to any other COBOL
+compiler you are already far more experienced with COBOL than I am.
+
+### GNU COBOL FAQ - https://gnucobol.sourceforge.io/faq/
+
+I should have read at least _some_ of this before starting to write code. In
+particular, the section on available tutorials.
+
+### Tutorialspoint COBOL pages - https://www.tutorialspoint.com/cobol/index.htm
+
+This is the kind of tutorial that mixes useful information with stuff that is
+so obviously complete rubbish that it becomes an adventure in itself trying to
+work out which is which. I gave up with it about halfway through after deciding
+I had probably gleaned enough information to write a small and crappy Life
+implementation. I have also probably already learned a few things wrong.
+
+### Michael Coughlan's COBOL course - http://www.csis.ul.ie/cobol/course/
+
+This is the one that the GNU COBOL FAQ seems to recommend most highly. Do not be
+deceived by the fact that it appears to have been last updated in 2002. As the
+GNU COBOL FAQ states: _These pages are over a decade old, and like all things
+COBOL, still very relevant at that young of an age._

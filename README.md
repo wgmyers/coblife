@@ -62,7 +62,7 @@ that it is anything other than extremely bad non-idiomatic COBOL are slim.
 * No generation counter
 * No editor
 * No way to restart without rerunning the whole thing
-* No way to fit artibrary terminals
+* No way to fit arbitrary terminals
 * Random seed is not set properly
 
 ## Resources

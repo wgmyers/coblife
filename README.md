@@ -64,6 +64,8 @@ that it is anything other than extremely bad non-idiomatic COBOL are slim.
 * No way to restart without rerunning the whole thing
 * No way to fit arbitrary terminals
 * Random seed is not set properly
+* Linenumbers are probably a bad idea
+* Paragraphs are in no particular order, code hard to read
 
 ## Resources
 

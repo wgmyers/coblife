@@ -62,8 +62,7 @@ that it is anything other than extremely bad non-idiomatic COBOL are slim.
 * No editor, you just get the random set of cells
 * No way to restart without rerunning the whole thing
 * No way to fit arbitrary terminals
-* Linenumbers are probably a bad idea and are already a mess
-* Paragraphs are in no particular order, code hard to read
+* Linenumbers are probably a bad idea
 
 ## Resources
 
